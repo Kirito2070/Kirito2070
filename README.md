@@ -13,3 +13,4 @@ Languages: Python Starter
 💡 I enjoy solving problems, learning new technologies, and collaborating on open-source projects.
 
 When I'm not coding, you can find me [mention a hobby or interest, e.g., reading tech blogs, hiking, gaming, etc.].
+::::
